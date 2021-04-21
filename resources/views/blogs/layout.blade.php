@@ -24,7 +24,6 @@
 <div class="jumbotron text-center" style="margin-bottom:0">
   <p>Footer</p>
 </div>
- 
 <div class="container">
   @yield('sewwandi')
 </div>
